@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Regina Santangelo</h1>
-<h3 align="center">A young and passionate frontend developer from Argentina!</h3>
+<h3 align="center">Frontend Developer Jr.</h3>
 
 - 🔭 I’m currently working on **the final proyect of frontend career.**
 
